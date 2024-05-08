@@ -1,0 +1,3 @@
+flutter run -d chrome  ==? run project in chrome
+flutter run ==> standard to run on emulator
+ 
